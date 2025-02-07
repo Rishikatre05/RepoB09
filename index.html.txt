@@ -1,3 +1,0 @@
-<html>
-       <body><h1>This is my file through CI/CD pipeline<H1></body>
-</html>
